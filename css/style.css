@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    background-image: radial-gradient( rgb(26, 14, 26), rgb(94, 66, 94), rgb(41, 33, 41));
+    width: 850px;
+    height: 1000px;
+}
+.header{
+    color:black;
+    width: 900px;
+    background-color:white;
+}
+
+.header-left {
+    display: inline-block;
+    vertical-align: top;
+    width:425px;
+    padding:10px;
+}
+
+.header-right {
+    display: inline-block;
+    vertical-align: top;
+    width:425px;
+    padding: 10px;
+    text-align: right;
+}
+
+.image{
+    width: 365px;
+    height: 260px;
+    margin: 25px;
+    outline-color: beige;
+    border-style: solid; color: rgb(179, 170, 170);
+    border-width: 0.125cm;
+    display: inline-block;
+}
+
+.about{
+    width: 380px;
+    margin:25px;
+    height: 260px;
+    outline-color: beige;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.about h2{
+    background-color: silver;
+    color: white;
+    padding: 5px;
+}
+
+.about h3{
+    color: black;
+}
+
+.about p{
+    margin: 10px;
+    color: black;
+}
+
+.lamode{
+    width: 255px;
+    height: 500px;
+    margin:10px;
+    outline-color: beige;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.lamode h2{
+    background-color: silver;
+    color: white;
+    padding: 5px;
+}
+
+.lamodepic{
+    width: 200px;
+    display: inline-block;
+}
+
+.lamode p{
+    padding: 5px;
+}
+
+.familyContacts{
+    width: 255px;
+    height: 500px;
+    margin:10px;
+    outline-color: beige;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.familyContacts h2{
+    background-color: silver;
+    color: white;
+    padding: 5px;
+}
+
+.family p{
+    padding: 5px;
+}
+
+.familypic{
+    width: 200px;
+    display: inline-block; 
+}
+.fiveEleven{
+    width: 255px;
+    height: 500px;
+    margin:10px;
+    outline-color: beige;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.fiveEleven h2{
+    background-color: silver;
+    color: white;
+    padding: 5px;
+}
+
+.fiveElevenpic{
+    width: 200px;
+    display: inline-block; 
+    vertical-align: top;
+}
+
+.footer{
+    width: 850px;
+    height: 110px;
+    padding: 10px;
+    
+    background-color:rgb(241, 234, 234);
+}
+
+.php{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.bootstrap{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.igniter{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.css{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.html{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+
+.jquery{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+
+.mysql{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.ajax{
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+
+.footer h4{
+    display: inline-block;
+}
+
+.lamode button{
+    background-color: rgb(47, 95, 48); 
+    color:white;
+    padding: 5px;
+    text-align: center;
+    vertical-align: bottom;
+    border-radius:10px;
+    border: black;
+}
+
+.familyContacts button{
+    background-color: rgb(47, 95, 48); 
+    color:white;
+    padding: 5px;
+    text-align: center;
+    vertical-align: bottom;
+    border-radius:10px;
+    border: black;
+}
+
+.fiveEleven button{
+    background-color: rgb(47, 95, 48); 
+    color:white;
+    padding: 5px;
+    text-align: center;
+    vertical-align: bottom;
+    border-radius: 10px;
+    border: black;
+}
